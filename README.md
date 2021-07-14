@@ -23,7 +23,7 @@ Installation process is similar to OpenWRT
 
 ## How to build image from source
 1. cd release/src-ra-5010 (cd release/src-ra-mt7620 for MI Wifi Mini)
-2. make model (currently available models are: rt-mir3g, rt-mir4a, rt-rm2100, rt-r2100 or rt-wifimini for MI Wifi Mini)
+2. make model (currently available models are: rt-mir3g, rt-mir4a, rt-rm2100, rt-r2100)
 
 ## Missing features
 - No dual-wan support on MT7621 devices
