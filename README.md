@@ -22,7 +22,7 @@ Installation process is similar to OpenWRT
 - SPI flash - image needs to be written at 0x180000 offset
 
 ## How to build image from source
-1. cd release/src-ra-5010 (cd release/src-ra-mt7620 for MI Wifi Mini)
+1. cd release/src-ra-5010
 2. make model (currently available models are: rt-mir3g, rt-mir4a, rt-rm2100, rt-r2100)
 
 ## Missing features
